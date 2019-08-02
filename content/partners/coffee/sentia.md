@@ -2,7 +2,7 @@
 title: Sentia
 type: partner
 draft: false
-category: gold
+category: coffee
 logo: /images/partners/sentia.png
 website: https://www.sentia.com
 ---
