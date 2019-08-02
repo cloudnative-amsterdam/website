@@ -70,14 +70,14 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-08-01"
            price="55 €"
            info=""
-           soldOut=""
+           soldOut="true"
            url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
 <li>{{< ticket name="Regular ticket"
            starts="2019-08-01"
            ends="2019-09-13"
            price="110 €"
            info=""
-           soldOut="true"
+           soldOut=""
            url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
 </ul>
 
