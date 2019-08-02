@@ -23,6 +23,6 @@ If you wish to become a sponsor, consult our sponsorship file and contact us at
 
 {{% /hero %}}
 
-{{% partners categories="gold,silver,bronze,community" %}}
+{{% partners categories="coffee,gold,silver,lanyard,bronze,community" %}}
 
 {{% /partners %}}
