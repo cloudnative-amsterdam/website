@@ -1,7 +1,7 @@
 ---
 title: Diane Mueller
 type: cfp
-subtitle: RadHat
+subtitle: Red Hat
 photo: diane_mueller.jpg
 socials:
   - link: 'https://twitter.com/pythondj'
