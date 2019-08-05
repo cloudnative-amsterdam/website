@@ -68,8 +68,8 @@ It is aimed at students, professionals or simply curious technophiles.
 <li>{{< ticket name="Diversity ticket"
            starts="2019-03-25"
            ends="2019-09-13"
-           price="Free"
-           info="Diversity"
+           price="Diversity"
+           info="Free"
            soldOut=""
            url="https://diversitytickets.org/en/events/505" >}}</li>
 <li>{{< ticket name="Blind ticket"
