@@ -12,13 +12,14 @@ menu:
 
 ### Pakhuis de Zwijger, Amsterdam
 
-<!--
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="" target="_blank">Become a sponsor</a>
--->
-
-<a class="btn primary btn-lg" href="https://sessionize.com/cndams2019/">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit your talk
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="#tickets">
+  {{% icon "ticket" %}}
+  &nbsp; Get your ticket
 </a>
+
+<!-- <a class="btn primary btn-lg" href="https://sessionize.com/cndams2019/">
+    <svg class="icon ticket"><use xlink:href="#cfp"></use></svg>Submit your talk
+</a> -->
 
 {{% /jumbo %}}
 
