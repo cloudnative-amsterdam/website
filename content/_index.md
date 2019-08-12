@@ -113,7 +113,7 @@ The former refrigerated warehouse functions as a debate centre of the 21st centu
 
 {{% /home-location %}}
 
-{{% partners categories="coffee,gold,silver,lanyard,bronze,community" %}}
+{{% partners categories="coffee,gold,silver,lanyard,community" %}}
 
 ## Sponsors <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY" target="_blank">Become a sponsor</a>
 
