@@ -38,20 +38,29 @@
     </item>
     
     <item>
-      <title>Fullstaq</title>
-      <link>https://cloudnative.amsterdam/partners/bronze/fullstaq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/bronze/fullstaq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lightbend</title>
       <link>https://cloudnative.amsterdam/partners/gold/lightbend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudnative.amsterdam/partners/gold/lightbend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunatech</title>
+      <link>https://cloudnative.amsterdam/partners/gold/lunatech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/gold/lunatech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mambu</title>
+      <link>https://cloudnative.amsterdam/partners/silver/mambu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/silver/mambu/</guid>
       <description></description>
     </item>
     
