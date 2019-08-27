@@ -29,6 +29,24 @@
     </item>
     
     <item>
+      <title>Amsterdam.rb</title>
+      <link>https://cloudnative.amsterdam/partners/community/amsrb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/community/amsrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Thursdays</title>
+      <link>https://cloudnative.amsterdam/partners/community/azurethursday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/community/azurethursday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloudbees</title>
       <link>https://cloudnative.amsterdam/partners/gold/cloudbees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,6 +83,15 @@
     </item>
     
     <item>
+      <title>Devopsdays Amsterdam</title>
+      <link>https://cloudnative.amsterdam/partners/community/devopdays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/community/devopdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diane Mueller</title>
       <link>https://cloudnative.amsterdam/team/cfp/diane_mueller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,6 +124,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudnative.amsterdam/team/core/floor_drees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fullstaq community</title>
+      <link>https://cloudnative.amsterdam/partners/community/fullstaq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/community/fullstaq/</guid>
       <description></description>
     </item>
     
