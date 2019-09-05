@@ -1,7 +1,7 @@
 ---
 title: Container Solutions
 type: partner
-category: gold
+category: partner
 order: 2
 logo: /images/partners/container-solutions.jpg
 website: https://www.container-solutions.com/
