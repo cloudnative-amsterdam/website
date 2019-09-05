@@ -71,7 +71,7 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-09-13"
            price="Diversity"
            info="Free"
-           soldOut=""
+           soldOut="true"
            url="https://diversitytickets.org/en/events/505" >}}</li>
 <li>{{< ticket name="Blind ticket"
            starts="2019-03-25"
