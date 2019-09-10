@@ -155,6 +155,15 @@
     </item>
     
     <item>
+      <title>RedHat</title>
+      <link>https://cloudnative.amsterdam/partners/gold/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/gold/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sentia</title>
       <link>https://cloudnative.amsterdam/partners/coffee/sentia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,6 +178,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cloudnative.amsterdam/partners/lanyard/tergos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAMP</title>
+      <link>https://cloudnative.amsterdam/partners/gold/vamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/gold/vamp/</guid>
       <description></description>
     </item>
     
