@@ -6,6 +6,12 @@ Please join the #nl-users on Kubernetes slack (free invite on slack.k8s.io)
 
 ## Contributing
 
+Fork and clone this repo recursively:
+
+```
+git clone --recursive https://github.com/<github user>/public-website.git
+```
+
 Work in this repo with Hugo `hugo serve`, when done:
 
 hugo generates the assets in `./public`
