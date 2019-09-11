@@ -113,7 +113,7 @@ The former refrigerated warehouse functions as a debate centre of the 21st centu
 
 {{% /home-location %}}
 
-{{% partners categories="partner,coffee,gold,lanyard,silver,community" %}}
+{{% partners categories="partner,coffee&drinks,gold,lanyard,silver,community" %}}
 
 ## Sponsors 
 
