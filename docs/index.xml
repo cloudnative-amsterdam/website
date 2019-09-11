@@ -254,11 +254,20 @@
     </item>
     
     <item>
-      <title>Sentia</title>
-      <link>https://cloudnative.amsterdam/partners/coffee/sentia/</link>
+      <title>SUSE</title>
+      <link>https://cloudnative.amsterdam/partners/coffee_and_drinks/suse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/coffee/sentia/</guid>
+      <guid>https://cloudnative.amsterdam/partners/coffee_and_drinks/suse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentia</title>
+      <link>https://cloudnative.amsterdam/partners/coffee_and_drinks/sentia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/partners/coffee_and_drinks/sentia/</guid>
       <description></description>
     </item>
     
