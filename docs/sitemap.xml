@@ -135,6 +135,10 @@
   </url>
   
   <url>
+    <loc>https://cloudnative.amsterdam/partners/community/startup_amsterdam/</loc>
+  </url>
+  
+  <url>
     <loc>https://cloudnative.amsterdam/tags/</loc>
     <priority>0</priority>
   </url>
