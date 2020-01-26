@@ -1,228 +1,228 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsors on Kubernetes Community Days Amsterdam 2019</title>
-    <link>https://cloudnative.amsterdam/partners/</link>
+    <link>localhost:1313/partners/</link>
     <description>Recent content in Sponsors on Kubernetes Community Days Amsterdam 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://cloudnative.amsterdam/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ABN AMRO</title>
-      <link>https://cloudnative.amsterdam/partners/gold/abn-amro/</link>
+      <link>localhost:1313/partners/gold/abn-amro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/gold/abn-amro/</guid>
+      <guid>localhost:1313/partners/gold/abn-amro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amsterdam.rb</title>
-      <link>https://cloudnative.amsterdam/partners/community/amsrb/</link>
+      <link>localhost:1313/partners/community/amsrb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/community/amsrb/</guid>
+      <guid>localhost:1313/partners/community/amsrb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Thursdays</title>
-      <link>https://cloudnative.amsterdam/partners/community/azurethursday/</link>
+      <link>localhost:1313/partners/community/azurethursday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/community/azurethursday/</guid>
+      <guid>localhost:1313/partners/community/azurethursday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudbees</title>
-      <link>https://cloudnative.amsterdam/partners/gold/cloudbees/</link>
+      <link>localhost:1313/partners/gold/cloudbees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/gold/cloudbees/</guid>
+      <guid>localhost:1313/partners/gold/cloudbees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Container Solutions</title>
-      <link>https://cloudnative.amsterdam/partners/partner/containersolutions/</link>
+      <link>localhost:1313/partners/partner/containersolutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/partner/containersolutions/</guid>
+      <guid>localhost:1313/partners/partner/containersolutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delta Amsterdam</title>
-      <link>https://cloudnative.amsterdam/partners/partner/delta-amsterdam/</link>
+      <link>localhost:1313/partners/partner/delta-amsterdam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/partner/delta-amsterdam/</guid>
+      <guid>localhost:1313/partners/partner/delta-amsterdam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devopsdays Amsterdam</title>
-      <link>https://cloudnative.amsterdam/partners/community/devopdays/</link>
+      <link>localhost:1313/partners/community/devopdays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/community/devopdays/</guid>
+      <guid>localhost:1313/partners/community/devopdays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DiversityTickets</title>
-      <link>https://cloudnative.amsterdam/partners/community/diversity-tickets/</link>
+      <link>localhost:1313/partners/community/diversity-tickets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/community/diversity-tickets/</guid>
+      <guid>localhost:1313/partners/community/diversity-tickets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fullstaq community</title>
-      <link>https://cloudnative.amsterdam/partners/partner/fullstaq/</link>
+      <link>localhost:1313/partners/partner/fullstaq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/partner/fullstaq/</guid>
+      <guid>localhost:1313/partners/partner/fullstaq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instruqt</title>
-      <link>https://cloudnative.amsterdam/partners/community/instruqt/</link>
+      <link>localhost:1313/partners/community/instruqt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/community/instruqt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightbend</title>
-      <link>https://cloudnative.amsterdam/partners/gold/lightbend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/lightbend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lunatech</title>
-      <link>https://cloudnative.amsterdam/partners/gold/lunatech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/lunatech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mambu</title>
-      <link>https://cloudnative.amsterdam/partners/silver/mambu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/silver/mambu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft</title>
-      <link>https://cloudnative.amsterdam/partners/gold/microsoft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/microsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NetApp</title>
-      <link>https://cloudnative.amsterdam/partners/gold/netapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/netapp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rancher</title>
-      <link>https://cloudnative.amsterdam/partners/gold/rancher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/rancher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactive</title>
-      <link>https://cloudnative.amsterdam/partners/community/reactive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/community/reactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RedHat</title>
-      <link>https://cloudnative.amsterdam/partners/gold/redhat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/redhat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SUSE</title>
-      <link>https://cloudnative.amsterdam/partners/coffee_and_drinks/suse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/coffee_and_drinks/suse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentia</title>
-      <link>https://cloudnative.amsterdam/partners/coffee_and_drinks/sentia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/coffee_and_drinks/sentia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>StartupAmsterdam</title>
-      <link>https://cloudnative.amsterdam/partners/community/startup_amsterdam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/community/startup_amsterdam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tergos</title>
-      <link>https://cloudnative.amsterdam/partners/lanyard/tergos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/lanyard/tergos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VAMP</title>
-      <link>https://cloudnative.amsterdam/partners/gold/vamp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudnative.amsterdam/partners/gold/vamp/</guid>
+      <guid>localhost:1313/partners/community/instruqt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jFrog</title>
-      <link>https://cloudnative.amsterdam/partners/gold/jfrog/</link>
+      <link>localhost:1313/partners/gold/jfrog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cloudnative.amsterdam/partners/gold/jfrog/</guid>
+      <guid>localhost:1313/partners/gold/jfrog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightbend</title>
+      <link>localhost:1313/partners/gold/lightbend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/lightbend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunatech</title>
+      <link>localhost:1313/partners/gold/lunatech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/lunatech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mambu</title>
+      <link>localhost:1313/partners/silver/mambu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/silver/mambu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>localhost:1313/partners/gold/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetApp</title>
+      <link>localhost:1313/partners/gold/netapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/netapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rancher</title>
+      <link>localhost:1313/partners/gold/rancher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/rancher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactive</title>
+      <link>localhost:1313/partners/community/reactive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/community/reactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RedHat</title>
+      <link>localhost:1313/partners/gold/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentia</title>
+      <link>localhost:1313/partners/coffee_and_drinks/sentia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/coffee_and_drinks/sentia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StartupAmsterdam</title>
+      <link>localhost:1313/partners/community/startup_amsterdam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/community/startup_amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUSE</title>
+      <link>localhost:1313/partners/coffee_and_drinks/suse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/coffee_and_drinks/suse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tergos</title>
+      <link>localhost:1313/partners/lanyard/tergos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/lanyard/tergos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAMP</title>
+      <link>localhost:1313/partners/gold/vamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/partners/gold/vamp/</guid>
       <description></description>
     </item>
     
