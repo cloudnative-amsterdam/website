@@ -1,0 +1,75 @@
+publishDir = "docs"
+
+baseURL = "localhost:1313"
+languageCode = "en"
+title = "Kubernetes Community Days Amsterdam 2019"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+GoogleAnalytics = "UA-134592754-1"
+
+[params]
+    title = "Kubernetes Community Days Amsterdam 2019"
+    date = "2019-09-13"
+    description = "Cloud Native Day is a community-led conference for all Cloud Native applications and platforms"
+    images = ["/images/social-share.jpg"]
+    email = "info@cloudnative.amsterdam"
+    keywords = "event, kubernetes, developers, web, cloud"
+    copyright = "We :heart:️ Cloud Native"
+    cfpUrl = "https://aka.ms/cndams19prereg"
+    subscriptionUrl = "https://aka.ms/kcdamsml"
+    # appleTouchIcon = "/apple-touch-icon.png"
+    # favicon32 = "/favicon-32x32.png"
+    # favicon16 = "/favicon-16x16.png"
+    # manifest = "/manifest.json"
+    # safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#494241"
+
+[params.logos]
+    jumbo = "/images/logos/house_transparent.png"
+    header = "/images/logos/sun.png"
+    footer = "/images/logos/netlify-color-accent.svg"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "jobs"
+#    name = "Jobs"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[taxonomies]
+    tag = "tags"
+
+[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        anonymizeIP = false
+        disable = false
+        respectDoNotTrack = false
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = true
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = false
+        simple = false
+    [privacy.vimeo]
+        disable = true
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = false

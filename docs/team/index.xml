@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Kubernetes Community Days Amsterdam 2019</title>
+    <link>https://cloudnative.amsterdam/team/</link>
+    <description>Recent content in Team on Kubernetes Community Days Amsterdam 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://cloudnative.amsterdam/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alessandro Vozza</title>
+      <link>https://cloudnative.amsterdam/team/core/alessandro_vozza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/alessandro_vozza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Paulus</title>
+      <link>https://cloudnative.amsterdam/team/core/daniel_paulus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/daniel_paulus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diane Mueller</title>
+      <link>https://cloudnative.amsterdam/team/cfp/diane_mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/cfp/diane_mueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Tiriticco</title>
+      <link>https://cloudnative.amsterdam/team/core/fabio_tiriticco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/fabio_tiriticco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor Drees</title>
+      <link>https://cloudnative.amsterdam/team/core/floor_drees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/floor_drees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke Heidecke</title>
+      <link>https://cloudnative.amsterdam/team/cfp/luke_heidecke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/cfp/luke_heidecke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hausenblas</title>
+      <link>https://cloudnative.amsterdam/team/cfp/michael_hausenblas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/cfp/michael_hausenblas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serkan Capkan</title>
+      <link>https://cloudnative.amsterdam/team/core/serkan_capkan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/serkan_capkan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tereza Hozmanova</title>
+      <link>https://cloudnative.amsterdam/team/core/tereza_hozmanova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/core/tereza_hozmanova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Heck</title>
+      <link>https://cloudnative.amsterdam/team/cfp/walter_heck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudnative.amsterdam/team/cfp/walter_heck/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
