@@ -12,11 +12,6 @@ menu:
 
 ### Pakhuis de Zwijger, Amsterdam
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="#tickets">
-  {{% icon "ticket" %}}
-  &nbsp; Get your ticket
-</a>
-
 <!-- <a class="btn primary btn-lg" href="https://sessionize.com/cndams2019/">
     <svg class="icon ticket"><use xlink:href="#cfp"></use></svg>Submit your talk
 </a> -->
@@ -31,9 +26,12 @@ menu:
 
 {{% /home-info %}}
 
+# WE MOVED
 
 <!-- YOUTUBE SECTION -->
 {{< youtube-section link="videoseries?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G" title="Watch 2019 Keynotes and sessions" class="" >}}
+
+
 
 <!-- ALBUM SECTION -->
 
