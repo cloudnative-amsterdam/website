@@ -31,8 +31,21 @@ menu:
 
 {{% /home-info %}}
 
+
 <!-- YOUTUBE SECTION -->
-{{< youtube-section link="i-MKPPKWJuE" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="videoseries?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G" title="Watch 2019 Keynotes and sessions" class="" >}}
+
+{{% album images="/images/album/2019/kcdams19-1.png,/images/album/2019/kcdams19-2.png,/images/album/2019/kcdams19-3.png,/images/album/2019/kcdams19-4.png,/images/album/2019/kcdams19-5.png,/images/album/2019/kcdams19-6.png,/images/album/2019/kcdams19-7.png,/images/album/2019/kcdams19-8.png,/images/album/2019/kcdams19-9.png,/images/album/2019/kcdams19-10.png,/images/album/2019/kcdams19-11.png,/images/album/2019/kcdams19-12.png,/images/album/2019/kcdams19-13.png,/images/album/2019/kcdams19-14.png," %}}
+
+### Some pictures of the **Kubernetes Community Day Amsterdam 2019**.
+
+<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+    See all photos
+    {{% icon "right" %}}
+</a>
+
+{{% /album  %}}
+
 
 <!-- INFO -->
 {{% home-info what="Participants:300,Day:1,Sessions:10,Parallel Tracks:1" class="primary" %}}
@@ -59,39 +72,6 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-speakers %}}
 -->
 
-{{% home-tickets %}}
-
-## Tickets 
-
-### Secure your spot with an unparalleled discount while we finalize the program!
-
-<ul>
-<li>{{< ticket name="Diversity ticket"
-           starts="2019-03-25"
-           ends="2019-09-13"
-           price="Diversity"
-           info="Free"
-           soldOut="true"
-           url="https://diversitytickets.org/en/events/505" >}}</li>
-<li>{{< ticket name="Blind ticket"
-           starts="2019-03-25"
-           ends="2019-08-01"
-           price="55 €"
-           info="Blind"
-           soldOut="true"
-           url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
-<li>{{< ticket name="Regular ticket"
-           starts="2019-08-01"
-           ends="2019-09-13"
-           price="110 €"
-           info="Regular"
-           soldOut=""
-           url="https://www.eventbrite.com/e/kubernetes-community-day-amsterdam-2019-tickets-64716768597" >}}</li>
-</ul>
-
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
-
-{{% /home-tickets %}}
 
 <!-- NOTIFICATION -->
 {{% home-subscribe  class="primary" %}} <!--   class="primary"  -->
