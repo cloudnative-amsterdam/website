@@ -26,7 +26,6 @@ menu:
 
 {{% /home-info %}}
 
-# WE MOVED
 
 <!-- YOUTUBE SECTION -->
 {{< youtube-section link="videoseries?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G" title="Watch 2019 Keynotes and sessions" class="" >}}
