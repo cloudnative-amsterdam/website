@@ -35,11 +35,13 @@ menu:
 <!-- YOUTUBE SECTION -->
 {{< youtube-section link="videoseries?list=PLQGLXxvf53b0fzCwFJSLRyn88bCoFNH2G" title="Watch 2019 Keynotes and sessions" class="" >}}
 
+<!-- ALBUM SECTION -->
+
 {{% album images="/images/album/2019/kcdams19-1.png,/images/album/2019/kcdams19-2.png,/images/album/2019/kcdams19-3.png,/images/album/2019/kcdams19-4.png,/images/album/2019/kcdams19-5.png,/images/album/2019/kcdams19-6.png,/images/album/2019/kcdams19-7.png,/images/album/2019/kcdams19-8.png,/images/album/2019/kcdams19-9.png,/images/album/2019/kcdams19-10.png,/images/album/2019/kcdams19-11.png,/images/album/2019/kcdams19-12.png,/images/album/2019/kcdams19-13.png,/images/album/2019/kcdams19-14.png," %}}
 
-### Some pictures of the **Kubernetes Community Day Amsterdam 2019**.
+### Some pictures of the **Kubernetes Community Day Amsterdam 2019**. See all photos **[here](https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019)**.
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://500px.com/cloudnativeams/galleries/kubernetes-community-day-amsterdam-2019">
     See all photos
     {{% icon "right" %}}
 </a>
