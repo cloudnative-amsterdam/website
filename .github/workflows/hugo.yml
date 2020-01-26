@@ -29,3 +29,4 @@ jobs:
         env:
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ./docs
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
