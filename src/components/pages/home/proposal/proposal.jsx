@@ -325,7 +325,7 @@ const Proposal = () => {
               <button
                 className="button"
                 onClick={() =>
-                  window.open('https://sessionize.com/cloud-native-days-amsterdam-2025/', '_blank')
+                  window.open('https://talks.cloudnative.amsterdam/cloud-native-community-days-2025/cfp', '_blank')
                 }
               >
                 Submit a session
