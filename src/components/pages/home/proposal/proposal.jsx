@@ -222,7 +222,7 @@ const SAMPLE_VIDEOS = [
 const Proposal = () => {
   const [videos, setVideos] = useState(SAMPLE_VIDEOS);
 
-  const openDate = new Date('2025-04-12T00:00:00');
+  const openDate = new Date('2025-04-7T00:00:00');
   const closeDate = new Date('2025-07-08T23:59:00');
   const now = new Date();
   const total = closeDate.getTime() - openDate.getTime();
