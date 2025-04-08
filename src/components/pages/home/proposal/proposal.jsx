@@ -222,7 +222,7 @@ const SAMPLE_VIDEOS = [
 const Proposal = () => {
   const [videos, setVideos] = useState(SAMPLE_VIDEOS);
 
-  const openDate = new Date('2025-04-7T00:00:00');
+  const openDate = new Date('2025-04-07T00:00:00');
   const closeDate = new Date('2025-07-08T23:59:00');
   const now = new Date();
   const total = closeDate.getTime() - openDate.getTime();
@@ -261,11 +261,11 @@ const Proposal = () => {
               <div className="flex justify-between text-sm">
                 <div>
                   <div className="text-gray-500">Opens</div>
-                  <div className="font-medium">12 Apr 2025 12:00 AM</div>
+                  <div className="font-medium">7 Apr 2025 12:00 AM</div>
                 </div>
                 <div className="text-right">
                   <div className="text-gray-500">Closes</div>
-                  <div className="font-medium">20 June 2025 11:59 PM</div>
+                  <div className="font-medium">8 July 2025 11:59 PM</div>
                 </div>
               </div>
 
