@@ -14,7 +14,7 @@ const Hero = () => {
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
               {/* Date Badge */}
-              <span className="hero-badge">October 16th – 17th, 2025</span>
+              <span className="hero-badge">October 16th – 17th, 2025 (provisional)</span>
 
               {/* Title */}
               <h1 className="hero-title">Cloud Native Community Days Amsterdam</h1>
