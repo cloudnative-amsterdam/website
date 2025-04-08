@@ -6,8 +6,8 @@ import MENUS from 'constants/menus';
 import Burger from '../burger';
 import Link from '../link';
 import { StaticImage } from 'gatsby-plugin-image';
-import { FaDiscord } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 
 import './header.css';
 
@@ -89,10 +89,20 @@ const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
             }}
           >
             Join our Community
-            <FaLinkedin style={{ marginLeft: '1rem' }} />
+            <FaLinkedin style={{ marginLeft: '0.5rem', fontSize: '1.25rem' }} />
           </button>
         </div>
-
+        <div className="md:flex items-center" style={{ marginLeft: '0', justifyContent: 'flex-end', position: 'absolute', right: '-2rem' }}>
+          <a
+            href="http://github.com/cloudnative-amsterdam/website"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary hover:text-primary-dark transition-colors duration-200"
+            style={{ display: 'flex', alignItems: 'right', cursor: 'pointer' }}
+          >
+            <FaGithub style={{ fontSize: '2rem' }} />
+          </a>
+        </div>
         <Burger
           className={clsx('z-50 hidden md:block', isMobileMenuOpen && 'text-black dark:text-black')}
           isToggled={isMobileMenuOpen}
