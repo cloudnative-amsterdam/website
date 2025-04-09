@@ -41,7 +41,7 @@ const Hero = () => {
               </ul>
 
               <p className="hero-description">
-                New name. Same mission! Cloud Native Community Days Amsterdam is run by the community for the community!
+                New name, same mission! Cloud Native Days Amsterdam are run by the community for the community.
               </p>
               {/* CTA Buttons */}
               <div className="hero-cta-container">
