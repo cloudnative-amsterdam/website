@@ -13,15 +13,15 @@ const Hero = () => {
           <div className="hero-grid">
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
-              {/* Date Badge */}
               <span className="hero-badge">October 16th – 17th, 2025 (provisional)</span>
 
-              {/* Title */}
-              <h1 className="hero-title">Cloud Native Community Days Amsterdam</h1>
+              <h1 className="hero-title">
+                Cloud Native Days Amsterdam<br></br>
+                <span style={{ color: 'green' }}>AI & Sustainability</span>
+              </h1>
 
-              {/* Description */}
               <p className="hero-description">
-                In September 2025, the cloud native community will gather in Amsterdam. Come and join us!
+                In October 2025, the cloud native community will gather in Amsterdam. Come and join us!
               </p>
 
               {/* Feature List */}
