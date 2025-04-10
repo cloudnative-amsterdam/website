@@ -8,6 +8,7 @@ import whiteduck from 'icons/whiteduck.png';
 
 import AlessandroPhoto from './images/alessandro.png';
 import LucaPhoto from './images/luca.jpeg';
+import MegPhoto from './images/meg.png';
 // import Les from './images/LesyaKoerbaecher.jpeg';
 // import MarkusPhoto from './images/markus.jpeg';
 // import Martin from './images/martin.jpeg';
@@ -28,6 +29,12 @@ const ITEMS = [
     position: 'Technical Consultant - Independent',
     photo: LucaPhoto,
     url: 'https://www.linkedin.com/in/lucaberton/', // Updated URL
+  },
+  {
+    name: 'Meg Stefouli-Vozza',
+    position: 'Software Engineer - Independent',
+    photo: MegPhoto,
+    url: 'https://www.linkedin.com/in/megstefuli/', // Updated URL
   },
 ];
 

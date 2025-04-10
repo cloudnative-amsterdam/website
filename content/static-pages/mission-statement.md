@@ -9,18 +9,7 @@ Cloud Native Community Days Amsterdam is a community-driven event that aims to b
 
 Additionally, we are committed to being a carbon-neutral event and will work to offset any carbon emissions associated with the event through environmentally conscious initiatives. In line with our commitment to sustainability, we will only serve vegetarian and vegan food options at the event. Furthermore, we are committed to reducing waste as much as possible at the event and will encourage the use of reusable containers and other eco-friendly practices. Above all, we embrace diversity and inclusivity and welcome attendees from all backgrounds and identities to join us at Cloud Native Community Days Amsterdam.
 
-## Old wine in new bottles
-
-What's the difference between KCD Amsterdam/Utrecht and Cloud Native Community Days Amsterdam? 
-
-The Dutch community has been a part of the KCD program for a long time. We have been part of the KCD program since 2019, and we have seen the event grow and evolve over the years. And we were not alone; KCDs all around the globe become major successes. This very drastic growth in the last years requires some guiding frames, which were implemented in the last year by the Cloud Native Computing Foundation (CNCF). However, those frames are no help for outgrown events like ours.
-
 We want to create a space where all cloud-native technologies can be discussed and explored, not just Kubernetes; and we want to capture the new opportunities that sprung from the intersection of new radical technologies like A.I. and their impact on our societies and ecosystems. We believe that this is essential for the growth and success of the cloud-native community as a whole. By rebranding as Cloud Native Community Days Amsterdam, we hope to create a more inclusive and diverse event that reflects the true spirit of the cloud-native community.
-
-
-### More than Kubernetes - a Cloud Native Community
-
-The decision to not take part in the KCD 2.0 program has come a long way, with dozens of discussions, meetings, and reflections. We came to the conclusion that the community itself gives the success of the event, the speakers, the sponsors, and the magic in between all of it. We aim to bring together the best, most curious, deepest tech, and craziest innovative mindset people - a summit. Our vision is to encourage and support the open-source community, build on the cloud-native ecosystem, and foster collaboration between all parties.
 
 ### Double down on the community
 
