@@ -7,6 +7,8 @@ const MENUS = {
     { text: 'CfP', ...LINKS.proposal },
     { text: 'Sponsors', ...LINKS.sponsors },
     { text: 'Media', ...LINKS.gallery },
+    { text: 'Team', ...LINKS.team },
+
   ],
   footer: [
     { text: 'Code of Conduct', ...LINKS.conduct },

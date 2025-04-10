@@ -1,5 +1,6 @@
 import clsx from 'clsx';
 import React from 'react';
+import { Linkedin, Github, Globe } from "lucide-react"
 
 import Link from 'components/shared/link';
 import liquid from 'icons/liquid.png';
@@ -68,7 +69,7 @@ const Members = () => (
               to={url}
               target="_blank"
             >
-              LinkedIn
+              <center>LinkedIn</center>
             </Link>
           </li>
         ))}
