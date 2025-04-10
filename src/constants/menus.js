@@ -4,7 +4,7 @@ const MENUS = {
   header: [
     // { text: 'Speakers', ...LINKS.speakers },
     // { text: 'Schedule', ...LINKS.schedule },
-    // { text: 'Call for Speakers', ...LINKS.proposal },
+    { text: 'CfP', ...LINKS.proposal },
     { text: 'Sponsors', ...LINKS.sponsors },
     { text: 'Media', ...LINKS.gallery },
   ],

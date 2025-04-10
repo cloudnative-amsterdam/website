@@ -41,7 +41,7 @@ const Hero = () => {
               </ul>
 
               <p className="hero-description">
-                New name, same mission! Cloud Native Days Amsterdam are run by the community for the community.
+                New name, same mission! Cloud Native Days Amsterdam is a technical community conferece run by the community, for the community. This year we are focusing on AI and Sustainability. We are looking for speakers, sponsors, and volunteers to help us make this event a success. If you are interested in getting involved, please <a href='mailto:info@cloudnative.amsterdam'>reach out to us!</a>
               </p>
               {/* CTA Buttons */}
               <div className="hero-cta-container">
