@@ -222,8 +222,8 @@ const SAMPLE_VIDEOS = [
 const Proposal = () => {
   const [videos, setVideos] = useState(SAMPLE_VIDEOS);
 
-  const openDate = new Date('2025-04-07T00:00:00');
-  const closeDate = new Date('2025-07-08T23:59:00');
+  const openDate = new Date('2026-01-01T00:00:00');
+  const closeDate = new Date('2026-05-22T23:59:00');
   const now = new Date();
   const total = closeDate.getTime() - openDate.getTime();
   const progress = Math.max(0, Math.min(100, ((now.getTime() - openDate.getTime()) / total) * 100));

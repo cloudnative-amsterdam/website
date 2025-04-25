@@ -36,6 +36,9 @@ export default {
   team: {
     to: '/team',
   },
+  meetup: {
+    to: 'https://www.meetup.com/Dutch-Cloud-Native-Meetup/',
+  },
   tickets: {
     to: '',
     target: '_blank',

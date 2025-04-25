@@ -1,8 +1,8 @@
 export default {
   schedule: {
-    title: 'CNCD Amsterdam - Event Schedule for September 21th and 22th, 2025',
+    title: 'CNCD Amsterdam - Event Schedule for May, 2026',
     description:
-      'Explore the detailed agenda for CNCD Amsterdam in Amsterdam on September 21th and 22th, 2025. Listen to expert talks, and connect with Kubernetes and Cloud Native professionals. Plan your day now!',
+      'Explore the detailed agenda for CNCD Amsterdam in Amsterdam on May 21th and 22th, 2026. Listen to expert talks, and connect with Kubernetes and Cloud Native professionals. Plan your day now!',
   },
   /* workshops: {
     title: 'Workshops — Kubernetes Community Days',

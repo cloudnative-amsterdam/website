@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="hero-grid">
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
-              <span className="hero-badge">October 16th – 17th, 2025 (provisional)</span>
+              <span className="hero-badge">May 2026</span>
 
               <h1 className="hero-title">
                 Cloud Native Days Amsterdam<br></br>
@@ -21,7 +21,7 @@ const Hero = () => {
               </h1>
 
               <p className="hero-description">
-                In October 2025, the cloud native community will gather in Amsterdam. Come and join us!
+                In May 2026, the cloud native community will gather in Amsterdam. Come and join us!
               </p>
 
               {/* Feature List */}

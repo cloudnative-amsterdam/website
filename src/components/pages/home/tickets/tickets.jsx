@@ -3,12 +3,12 @@ import './tickets.css';
 
 const Tickets = () => {
   const event = {
-    title: 'Cloud Native Community Days Amsterdam 2025',
-    date: '16-17 October 2025',
+    title: 'Cloud Native Community Days Amsterdam 2026',
+    date: '16-17 May 2026',
     time: '09:00 - 17:00 / 09:00 - 3:00',
     venue: 'Tt. Vasumweg 31, 1033 SK Amsterdam',
     description:
-      'In October 2025, the cloud native community will gather in Amsterdam. Come and join us! Cloud Native Community Days (CNCD) Amsterdam is a local, community-organized event that gathers adopters and technologists from open source and cloud native communities.',
+      'In May 2026, the cloud native community will gather in Amsterdam. Come and join us! Cloud Native Community Days (CNCD) Amsterdam is a local, community-organized event that gathers adopters and technologists from open source and cloud native communities.',
     tickets: [
       // {
       //   id: 'early-bird',
@@ -21,8 +21,8 @@ const Tickets = () => {
         id: 'all-days',
         name: 'Conference – All Days',
         price: 85,
-        salesStartDate: new Date('2025-03-01'),
-        salesEndDate: new Date('2025-10-16T23:59:59'),
+        salesStartDate: new Date('2026-01-01'),
+        salesEndDate: new Date('2026-05-16T23:59:59'),
       },
       // {
       //   id: 'monday',

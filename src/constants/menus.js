@@ -8,7 +8,7 @@ const MENUS = {
     { text: 'Sponsors', ...LINKS.sponsors },
     { text: 'Media', ...LINKS.gallery },
     { text: 'Team', ...LINKS.team },
-
+    { text: 'Meetup', ...LINKS.meetup },
   ],
   footer: [
     { text: 'Code of Conduct', ...LINKS.conduct },

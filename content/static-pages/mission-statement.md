@@ -17,10 +17,10 @@ We thrive on the community and want to give back to it. We are committed to maki
 
 ### Onward and Upward
 
-Only those who dream big will reach something great. The next few months we will throw ourselves into the planning for Cloud Native Community Days Amsterdam 2025. Follow us on [LinkedIn](https://www.linkedin.com/company/dutchcloudnative/), [Bluesky](https://bsky.app/profile/cloudnativenl.bsky.social), or Instagram to stay up to date.
+Only those who dream big will reach something great. The next few months we will throw ourselves into the planning for Cloud Native Community Days Amsterdam 2026. Follow us on [LinkedIn](https://www.linkedin.com/company/dutchcloudnative/), [Bluesky](https://bsky.app/profile/cloudnativenl.bsky.social), or Instagram to stay up to date.
 
 If you are interested in sponsoring you will find all the details [here](https://cloudnative.amsterdam/#sponsors).
 
 CfP and Early Bird tickets will be available soon!
 
-Feel free to contact us for any questions! We can't wait to welcome you again in 2025!
+Feel free to contact us for any questions! We can't wait to welcome you again in 2026!
