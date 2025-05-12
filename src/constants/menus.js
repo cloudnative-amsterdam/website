@@ -9,6 +9,7 @@ const MENUS = {
     { text: 'Media', ...LINKS.gallery },
     { text: 'Team', ...LINKS.team },
     { text: 'Meetup', ...LINKS.meetup },
+    { text: 'Mailing list', ...LINKS.mailing },
   ],
   footer: [
     { text: 'Code of Conduct', ...LINKS.conduct },

@@ -13,7 +13,10 @@ const Hero = () => {
           <div className="hero-grid">
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
-              <span className="hero-badge">May 2026</span>
+              <div className="hero-badge-container">
+                <span className="hero-badge">May 2026</span>
+                <span className="hero-badge"><a href="https://wt.ls/cloudnative">Join the waiting list</a></span>
+              </div>
 
               <h1 className="hero-title">
                 Cloud Native Days Amsterdam<br></br>
@@ -51,26 +54,24 @@ const Hero = () => {
                   style={{ cursor: 'pointer' }}
                   onClick={() => (window.location.href = '#tickets')}
                 >
-                  Get your Ticket<br></br> (not opened yet)
+                  Get your ticket<br></br> (open soon)
                 </button>
-                {
-                  <button
-                    type="button"
-                    className="hero-cta-secondary"
-                    onClick={() => (window.location.href = '#sponsors')}
-                  >
-                    Become a Sponsor
-                  </button>
-                }
-                {
-                  <button
-                    type="button"
-                    className="hero-cta-secondary"
-                    onClick={() => (window.location.href = '#proposal')}
-                  >
-                    Submit a Talk
-                  </button>
-                }
+                <button
+                  type="button"
+                  className="button"
+                  style={{ cursor: 'pointer' }}
+                  onClick={() => (window.location.href = '#tickets')}
+                >
+                  Become a Sponsor<br></br>
+                </button>
+                <button
+                  type="button"
+                  className="button"
+                  style={{ cursor: 'pointer' }}
+                  onClick={() => (window.location.href = '#tickets')}
+                >
+                  Submit a talk<br></br>
+                </button>
               </div>
             </div>
 
