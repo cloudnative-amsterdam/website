@@ -83,7 +83,7 @@
     "gatsby-plugin-svgr-svgo": "^2.0.0",
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
-    "lint-staged": "^13.1.0",
+    "lint-staged": "^16.1.2",
     "markdownlint-cli": "^0.45.0",
     "postcss": "^8.5.6",
     "postcss-import": "^15.1.0",
