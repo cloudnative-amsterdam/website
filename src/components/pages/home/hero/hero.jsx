@@ -14,7 +14,7 @@ const Hero = () => {
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
               <div className="hero-badge-container">
-                <span className="hero-badge">May 2026</span>
+                <span className="hero-badge">21-22 May 2026</span>
                 <span className="hero-badge"><a href="https://wt.ls/cloudnative">Join the waiting list</a></span>
               </div>
 
