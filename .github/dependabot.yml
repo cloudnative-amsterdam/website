@@ -19,15 +19,61 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
-    # Group minor and patch updates together
+    # Group updates for better PR management
     groups:
+      # Group Gatsby ecosystem updates
+      gatsby:
+        patterns:
+          - "gatsby*"
+        update-types:
+          - "minor"
+          - "patch"
+      # Group React ecosystem updates
+      react:
+        patterns:
+          - "react*"
+          - "@emotion/*"
+          - "@mui/*"
+        update-types:
+          - "minor"
+          - "patch"
+      # Group development dependencies
+      dev-dependencies:
+        dependency-type: "development"
+        update-types:
+          - "minor"
+          - "patch"
+      # Group all other minor and patch updates
       minor-and-patch:
         patterns:
           - "*"
         update-types:
           - "minor"
           - "patch"
-    # Keep major updates separate for manual review
-    ignore:
-      - dependency-name: "*"
-        update-types: ["version-update:semver-major"]
+        exclude-patterns:
+          - "gatsby*"
+          - "react*"
+          - "@emotion/*"
+          - "@mui/*"
+    # Allow specific major updates for trusted packages
+    allow:
+      - dependency-type: "direct"
+        update-type: "version-update:semver-major"
+        dependency-name: "gatsby"
+      - dependency-type: "direct"
+        update-type: "version-update:semver-major"
+        dependency-name: "react"
+
+  # Enable security updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "ci"
