@@ -55,14 +55,6 @@ updates:
           - "react*"
           - "@emotion/*"
           - "@mui/*"
-    # Allow specific major updates for trusted packages
-    allow:
-      - dependency-type: "direct"
-        update-type: "version-update:semver-major"
-        dependency-name: "gatsby"
-      - dependency-type: "direct"
-        update-type: "version-update:semver-major"
-        dependency-name: "react"
 
   # Enable security updates for GitHub Actions
   - package-ecosystem: "github-actions"
