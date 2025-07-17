@@ -65,7 +65,7 @@
     "@babel/core": "^7.28.0",
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
-    "@svgr/webpack": "^6.5.1",
+    "@svgr/webpack": "^8.1.0",
     "autoprefixer": "^10.4.21",
     "babel-loader": "^9.1.0",
     "eslint": "^8.57.0",
