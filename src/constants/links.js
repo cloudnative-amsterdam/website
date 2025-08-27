@@ -18,7 +18,7 @@ export default {
     homeTo: '/schedule',
   },
   proposal: {
-    to: `https://talks.cloudnative.amsterdam/cloud-native-community-days-2025/cfp`,
+    to: `https://talks.cloudnative.amsterdam/cloud-native-community-days-2026/cfp`,
     id: getAnchor('proposal'),
     homeTo: null,
     external: true,
