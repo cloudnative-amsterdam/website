@@ -37,7 +37,7 @@ export default {
     to: '/team',
   },
   meetup: {
-    to: 'https://www.meetup.com/Dutch-Cloud-Native-Meetup/',
+    to: 'https://www.meetup.com/dutch-cloud-native/',
   },
    mailing: {
     to: 'https://wt.ls/cloudnative',
