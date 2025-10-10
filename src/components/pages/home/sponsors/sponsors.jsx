@@ -176,7 +176,7 @@ const Sponsors = () => {
         </p>
         <div className="flex flex-col items-center justify-center gap-4">
           <a
-            href="https://docs.google.com/presentation/d/e/2PACX-1vSCoaAN6LSx2rW4waVJ3b7wSFQUS88boK2edR2QIGMd_8IecgAyJzf1b1ptTqVixwNKdpvDQ9k9Ei1U/pub?start=false&loop=true&delayms=5000"
+            href="https://drive.google.com/file/d/133vJdrtwiCnEDxhHK4fz2jGaD05R3u1n/view"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg bg-primary-1 px-6 py-3 text-white transition-all"
