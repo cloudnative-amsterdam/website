@@ -131,7 +131,7 @@ const contactEmail = 'team@cloudnativesummit.de';
 const Sponsors = () => {
   if (!SHOW_SPONSORS) {
     return (
-      <section className="mx-auto max-w-7xl px-4 py-16">
+      <section id="sponsors" className="mx-auto max-w-7xl px-4 py-16">
         <div className="mb-16 text-center">
           <h2 className="mb-4 text-4xl font-bold text-gray-900">Become a Sponsor</h2>
           <p className="mb-8 text-lg text-gray-500">
@@ -168,7 +168,7 @@ const Sponsors = () => {
 
   // Show the full sponsors section when SHOW_SPONSORS is true
   return (
-    <section className="mx-auto max-w-7xl px-4 py-16">
+    <section id="sponsors" className="mx-auto max-w-7xl px-4 py-16">
       <h2 className="section-title">Our sponsors</h2>
       <div className="mb-16 text-center">
         <p className="mb-8 text-lg text-gray-500">
