@@ -8,6 +8,7 @@ import Kubecareers from 'icons/kubecareers.svg';
 import Kubeevents from 'icons/kubeevents_2.svg';
 import liquid from 'icons/liquid.png';
 import lovelace from 'icons/lovelace.png';
+import openempower from 'icons/openempower.png';
 import MetalStack from 'icons/metalstackcloud.webp';
 import PlatformEngineeringLabs from 'icons/platformengineeringlabs.png';
 import QAware from 'icons/QAware_p.png';
@@ -114,7 +115,9 @@ const sponsorsList = [
     url: 'https://lovelace.engineering/',
     tier: 'organizer',
   },
-  { name: 'Open Empower', icon: lovelace, url: 'https://www.openempower.com', tier: 'organizer' },
+  { name: 'Open Empower', icon: openempower, 
+    url: 'https://www.openempower.com', 
+    tier: 'organizer' },
 
   // Community & Media Partners
 
