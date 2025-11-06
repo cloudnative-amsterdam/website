@@ -16,6 +16,7 @@ const MENUS = {
     { text: 'Team', ...LINKS.team },
     { text: 'Mission Statement', ...LINKS.mission },
     { text: 'Impressum & Data Privacy', ...LINKS.privacy },
+    { text: 'Site analytics', ...LINKS.analytics },
   ],
   mobile: [
     // { text: 'Speakers', ...LINKS.speakers },

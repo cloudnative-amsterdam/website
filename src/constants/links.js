@@ -62,6 +62,11 @@ export default {
     target: '_blank',
     external: true,
   },
+  analytics: {
+    to: 'https://cloud.umami.is/analytics/eu/websites/fdac0556-9492-4777-9cb3-1b22b8220aba',
+    target: '_blank',
+    external: true,
+  },
 
   // Social-links
   linkedin: {
