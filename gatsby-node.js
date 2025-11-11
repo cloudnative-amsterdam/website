@@ -14,6 +14,14 @@ exports.createPages = async (options) => {
     redirectInBrowser: true,
   });
 
+  // External redirect for CFP
+  createRedirect({
+    fromPath: '/cfp',
+    toPath: 'https://talks.cloudnative.amsterdam/cloud-native-community-days-2026/',
+    isPermanent: true,
+    redirectInBrowser: true,
+  });
+
   // Call the original createPages
   await require('./gatsby/create-pages')(options);
 };
