@@ -69,7 +69,7 @@ const MobileMenu = ({ isOpen, onButtonClick }) => {
               alignItems: 'center',
             }}
             onClick={() =>
-              window.open('https://cnsmunich.ticketbutler.io/en/e/cnsmunich-2025/', '_blank')
+              window.open('https://shop.weeztix.com/61d9c288-cf97-48df-8bcc-ce83803a7bd6', '_blank')
             }
           >
             Get your Ticket

@@ -10,41 +10,22 @@ const Tickets = () => {
     description:
       'In May 2026, the cloud native community will gather in Amsterdam. Come and join us! Cloud Native Community Days (CNCD) Amsterdam is a local, community-organized event that gathers adopters and technologists from open source and cloud native communities.',
     tickets: [
-      // {
-      //   id: 'early-bird',
-      //   name: 'Conference – Early Bird',
-      //   price: 69,
-      //   salesStartDate: null,
-      //   salesEndDate: new Date('2025-06-28T23:59:59'),
-      // },
       {
-        id: 'all-days',
-        name: 'Conference – All Days',
-        price: 85,
-        salesStartDate: new Date('2026-01-01'),
-        salesEndDate: new Date('2026-05-16T23:59:59'),
+        id: 'regular',
+        name: 'General Admission',
+        price: 59,
+        description: 'Standard access to all conference sessions and networking events, including vegan BBQ and Techno Kube party.',
+        salesStartDate: new Date('2025-11-10'),
+        salesEndDate: new Date('2026-05-23T23:59:59'),
       },
-      // {
-      //   id: 'monday',
-      //   name: 'Monday Only',
-      //   price: 129,
-      //   salesStartDate: new Date('2025-03-01'),
-      //   salesEndDate: new Date('2025-07-13T23:59:59'),
-      // },
-      // {
-      //   id: 'tuesday',
-      //   name: 'Tuesday Only',
-      //   price: 129,
-      //   salesStartDate: new Date('2025-03-01'),
-      //   salesEndDate: new Date('2025-07-13T23:59:59'),
-      // },
-      // {
-      //   id: 'late-mule',
-      //   name: 'All Days - Late Mule',
-      //   price: 209,
-      //   salesStartDate: new Date('2025-07-14'),
-      //   salesEndDate: new Date('2025-07-22T23:59:59'),
-      // },
+      {
+        id: 'supporter',
+        name: 'Supporter Ticket',
+        price: 119,
+        description: 'Support the community with a premium ticket that includes all benefits plus exclusive swag. You will also buy a ticket for a student or a diversity attendee!',
+        salesStartDate: new Date('2025-11-10'),
+        salesEndDate: new Date('2026-05-23T23:59:59'),
+      },
     ],
   };
 
@@ -110,15 +91,20 @@ const Tickets = () => {
             <ul className="list-inside list-disc space-y-1">
               {availableTickets.map((ticket) => (
                 <li key={ticket.id} className="ticket-item">
-                  <div className="ticket-name">{ticket.name}</div>
-                  <div className="ticket-price">€{ticket.price}</div>
+                  <div className="flex items-center justify-between">
+                    <div className="ticket-name">{ticket.name}</div>
+                    <div className="ticket-price">€{ticket.price}</div>
+                  </div>
+                  {ticket.description && (
+                    <div className="ticket-description text-sm text-gray-600">{ticket.description}</div>
+                  )}
                   <div className="ticket-end-date">
                     {ticket.salesEndDate &&
                       `Ends on: ${ticket.salesEndDate.toLocaleDateString(undefined, dateOptions)}`}
                   </div>
                 </li>
               ))}
-              <h6>Refund possible until June 15, 2025.</h6>
+              <h6>Refund possible until May 20, 2026.</h6>
             </ul>
           ) : (
             <p className="text-sm text-gray-500">No tickets are currently available for sale.</p>
@@ -150,7 +136,7 @@ const Tickets = () => {
             className="button"
             style={{ cursor: 'pointer' }}
             onClick={() =>
-              window.open('https://cloudnative.amsterdam', '_blank')
+              window.open('https://cloudnative.amsterdam/tickets', '_blank')
             }
           >
             Buy your Ticket

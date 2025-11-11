@@ -15,17 +15,10 @@ const hotels = [
     description:
       'Coming soon',
     distance: '5 min walk',
-    amenities: ['Restaurant', 'Bar'],
     amenities: [],
     websiteUrl: 'https://cloudnative.amsterdam/',
   },
   {
-    name: 'The Westin Grand Munich',
-    websiteUrl:
-      'https://cloudnative.amsterdam/',
-  },
-  {
-
     name: 'Hotel Amsterdam',
     description: 'A great place to stay',
     distance: '10 min walk',

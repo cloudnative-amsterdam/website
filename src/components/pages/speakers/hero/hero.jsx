@@ -19,7 +19,7 @@ const Hero = () => (
         className="group  relative  mt-10 md:mt-8 xs:mt-7 xs:w-full"
         size="lg"
         theme="blue"
-        to="https://kcdmunich-2.ticketbutler.io/en/e/kcd-munich-2024/"
+        to="https://shop.weeztix.com/61d9c288-cf97-48df-8bcc-ce83803a7bd6"
         target="_blank"
       >
         <span className="absolute h-full w-full rounded bg-gradient-to-br from-[#3333ff] via-[#3333ff] to-[#3333ff] group-hover:from-[#ff00c6] group-hover:via-[#ff5478] group-hover:to-[#ff8a05]"></span>

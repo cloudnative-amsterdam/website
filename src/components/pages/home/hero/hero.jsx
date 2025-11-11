@@ -54,7 +54,7 @@ const Hero = () => {
                   style={{ cursor: 'pointer' }}
                   onClick={() => (window.location.href = '#tickets')}
                 >
-                  Get your ticket<br></br> (open soon)
+                  Get your ticket<br></br>
                 </button>
                 <button
                   type="button"
