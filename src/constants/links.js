@@ -43,7 +43,7 @@ export default {
     to: 'https://wt.ls/cloudnative',
   },
   tickets: {
-    to: '',
+    to: '/tickets',
     target: '_blank',
     external: true,
   },
