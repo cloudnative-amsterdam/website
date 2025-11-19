@@ -6,7 +6,13 @@ const MENUS = {
     // { text: 'Schedule', ...LINKS.schedule },
     { text: 'CfP', ...LINKS.proposal },
     { text: 'Sponsors', ...LINKS.sponsors },
-    { text: 'Media', ...LINKS.gallery },
+    {
+      text: 'Media',
+      dropdown: [
+        { text: 'Talks', ...LINKS.talks },
+        { text: 'Photo Gallery', ...LINKS.photoGallery },
+      ],
+    },
     { text: 'Team', ...LINKS.team },
     { text: 'Meetup', ...LINKS.meetup },
     { text: 'Mailing list', ...LINKS.mailing },
