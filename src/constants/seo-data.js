@@ -33,6 +33,11 @@ export default {
     title: 'Team — CNCD Amsterdam',
     description: 'Experience the power of community at the CNCD Amsterdam!',
   },
+  gallery: {
+    title: 'Photo Gallery — CNCD Amsterdam',
+    description:
+      'Browse photos from previous Cloud Native Community Days Amsterdam events. Relive the moments, talks, and community experiences.',
+  },
   static: ({ title }) => ({
     title: `${title} — CNCD Amsterdam`,
   }),
