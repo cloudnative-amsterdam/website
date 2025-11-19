@@ -66,21 +66,56 @@ const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
 
         <nav>
           <ul className=" flex space-x-8 text-white lg:space-x-6 md:hidden">
-            {MENUS.header.map(({ text, to, homeTo }, index) => (
-              <li
-                className="text-[15px] font-semibold"
-                key={index}
-                style={{ color: '#004258', cursor: 'pointer' }}
-              >
-                <Link
-                  to={to || `/#${homeTo}`}
-                  className="text-primary hover:text-primary-dark cursor-pointer transition-colors duration-200"
-                  onClick={handleAnchorClick}
+            {MENUS.header.map((item, index) => {
+              const { text, to, homeTo, dropdown } = item;
+
+              if (dropdown) {
+                return (
+                  <li
+                    className="text-[15px] font-semibold dropdown-container"
+                    key={index}
+                    style={{ color: '#004258', cursor: 'pointer', position: 'relative' }}
+                    onMouseEnter={() => toggleDropdown(index)}
+                    onMouseLeave={closeDropdown}
+                  >
+                    <span className="text-primary hover:text-primary-dark cursor-pointer transition-colors duration-200">
+                      {text}
+                    </span>
+                    {openDropdown === index && (
+                      <ul className="dropdown-menu">
+                        {dropdown.map((dropdownItem, dropdownIndex) => (
+                          <li key={dropdownIndex} className="dropdown-item">
+                            <Link
+                              to={dropdownItem.to}
+                              target={dropdownItem.target}
+                              className="text-primary hover:text-primary-dark cursor-pointer transition-colors duration-200"
+                            >
+                              {dropdownItem.text}
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </li>
+                );
+              }
+
+              return (
+                <li
+                  className="text-[15px] font-semibold"
+                  key={index}
+                  style={{ color: '#004258', cursor: 'pointer' }}
                 >
-                  {text}
-                </Link>
-              </li>
-            ))}
+                  <Link
+                    to={to || `/#${homeTo}`}
+                    className="text-primary hover:text-primary-dark cursor-pointer transition-colors duration-200"
+                    onClick={handleAnchorClick}
+                  >
+                    {text}
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </nav>
 
