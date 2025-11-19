@@ -12,6 +12,7 @@ import { FaGithub } from 'react-icons/fa';
 import './header.css';
 
 const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
+  const [openDropdown, setOpenDropdown] = useState(null);
   const getAnchor = (str) => slugify(str).toLocaleLowerCase();
 
   const handleAnchorClick = (e) => {
@@ -28,6 +29,14 @@ const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
         behavior: 'smooth',
       });
     }
+  };
+
+  const toggleDropdown = (index) => {
+    setOpenDropdown(openDropdown === index ? null : index);
+  };
+
+  const closeDropdown = () => {
+    setOpenDropdown(null);
   };
 
   return (
