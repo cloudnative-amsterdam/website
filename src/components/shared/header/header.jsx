@@ -31,14 +31,6 @@ const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
     }
   };
 
-  const toggleDropdown = (index) => {
-    setOpenDropdown(openDropdown === index ? null : index);
-  };
-
-  const closeDropdown = () => {
-    setOpenDropdown(null);
-  };
-
   return (
     <header
       className={clsx('safe-paddings transition-200 z-10 transition-colors', additionalClassName)}
