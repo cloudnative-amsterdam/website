@@ -75,8 +75,8 @@ const Header = ({ isMobileMenuOpen, onBurgerClick, additionalClassName }) => {
                     className="text-[15px] font-semibold dropdown-container"
                     key={index}
                     style={{ color: '#004258', cursor: 'pointer', position: 'relative' }}
-                    onMouseEnter={() => toggleDropdown(index)}
-                    onMouseLeave={closeDropdown}
+                    onMouseEnter={() => setOpenDropdown(index)}
+                    onMouseLeave={() => setOpenDropdown(null)}
                   >
                     <span className="text-primary hover:text-primary-dark cursor-pointer transition-colors duration-200">
                       {text}
