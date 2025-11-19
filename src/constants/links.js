@@ -9,6 +9,16 @@ export default {
     target: '_blank',
     external: true,
   },
+  photoGallery: {
+    to: '/gallery',
+    target: '_blank',
+    external: false,
+  },
+  talks: {
+    to: 'https://www.youtube.com/@cloudnative-amsterdam',
+    target: '_blank',
+    external: true,
+  },
   home: {
     to: '/',
   },
