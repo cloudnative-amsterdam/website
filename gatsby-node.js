@@ -22,6 +22,14 @@ exports.createPages = async (options) => {
     redirectInBrowser: true,
   });
 
+  // External redirect for sponsor
+  createRedirect({
+    fromPath: '/sponsor',
+    toPath: 'https://drive.google.com/file/u/0/d/133vJdrtwiCnEDxhHK4fz2jGaD05R3u1n/view?pli=1',
+    isPermanent: true,
+    redirectInBrowser: true,
+  });
+
   // Call the original createPages
   await require('./gatsby/create-pages')(options);
 };
