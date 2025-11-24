@@ -178,14 +178,24 @@ const Sponsors = () => {
           Support our local cloud native community by sponsoring Cloud Native Community Days Amsterdam
         </p>
         <div className="flex flex-col items-center justify-center gap-4">
-          <a
-            href="https://drive.google.com/file/d/133vJdrtwiCnEDxhHK4fz2jGaD05R3u1n/view"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-lg bg-primary-1 px-6 py-3 text-white transition-all"
-          >
-            Sponsor Prospectus
-          </a>
+          <div className="flex gap-4">
+            <a
+              href="https://drive.google.com/file/d/1GtauJBpzZvB5AWng0FaRi5ZY5pdkdPPT/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-lg bg-primary-1 px-6 py-3 text-white transition-all"
+            >
+              Sponsor Prospectus
+            </a>
+            <a
+              href="https://drive.google.com/file/d/16IeCxr52dceXpezYzvOL-8OQZqRE7SkY/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-lg bg-primary-1 px-6 py-3 text-white transition-all"
+            >
+              1-Pager
+            </a>
+          </div>
           <p className="mb-8 text-lg text-gray-500" style={{ textAlign: 'center' }}>
             Thank you to our amazing sponsors who make this event possible
           </p>

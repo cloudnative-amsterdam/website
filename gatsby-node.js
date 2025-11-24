@@ -25,7 +25,7 @@ exports.createPages = async (options) => {
   // External redirect for sponsor
   createRedirect({
     fromPath: '/sponsor',
-    toPath: 'https://drive.google.com/file/u/0/d/133vJdrtwiCnEDxhHK4fz2jGaD05R3u1n/view?pli=1',
+    toPath: 'https://drive.google.com/file/d/1GtauJBpzZvB5AWng0FaRi5ZY5pdkdPPT/view?usp=sharing',
     isPermanent: true,
     redirectInBrowser: true,
   });
