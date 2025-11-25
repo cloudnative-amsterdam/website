@@ -265,7 +265,7 @@ const Proposal = () => {
                 </div>
                 <div className="text-right">
                   <div className="text-gray-500">Closes</div>
-                  <div className="font-medium">8 July 2025 11:59 PM</div>
+                  <div className="font-medium">29 January 2026 11:59 PM</div>
                 </div>
               </div>
 
