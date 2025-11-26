@@ -15,7 +15,7 @@ const Hero = () => {
             <div className="hero-left-column fade-in-up">
               <div className="hero-badge-container">
                 <span className="hero-badge">21-22 May 2026</span>
-                <span className="hero-badge"><a href="https://wt.ls/cloudnative">Join the waiting list</a></span>
+                <span className="hero-badge"><a href="https://wt.ls/cloudnative">Join the mailing list</a></span>
               </div>
 
               <h1 className="hero-title">
