@@ -1,3 +1,17 @@
+/* Cancellation Banner */
+.cancellation-banner {
+  background-color: #b91c1c;
+  color: white;
+  text-align: center;
+  padding: 1rem 1.5rem;
+}
+
+.cancellation-banner-text {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
 /* Hero Section */
 .hero-section {
   position: relative;

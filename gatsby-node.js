@@ -9,7 +9,7 @@ exports.createPages = async (options) => {
   // External redirect for tickets
   createRedirect({
     fromPath: '/tickets',
-    toPath: 'https://shop.weeztix.com/61d9c288-cf97-48df-8bcc-ce83803a7bd6',
+    toPath: 'https://cloudnative.amsterdam',
     isPermanent: true,
     redirectInBrowser: true,
   });
@@ -17,7 +17,7 @@ exports.createPages = async (options) => {
   // External redirect for CFP
   createRedirect({
     fromPath: '/cfp',
-    toPath: 'https://talks.cloudnative.amsterdam/cloud-native-community-days-2026/',
+    toPath: 'https://cloudnative.amsterdam',
     isPermanent: true,
     redirectInBrowser: true,
   });
@@ -25,7 +25,7 @@ exports.createPages = async (options) => {
   // External redirect for sponsor
   createRedirect({
     fromPath: '/sponsor',
-    toPath: 'https://drive.google.com/file/d/1GtauJBpzZvB5AWng0FaRi5ZY5pdkdPPT/view?usp=sharing',
+    toPath: 'https://cloudnative.amsterdam',
     isPermanent: true,
     redirectInBrowser: true,
   });

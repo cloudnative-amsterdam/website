@@ -6,6 +6,12 @@ import './hero.css';
 const Hero = () => {
   return (
     <div className="hero-container">
+      <div className="cancellation-banner">
+        <p className="cancellation-banner-text">
+          We regret to announce that <strong>Cloud Native Days Amsterdam 2026</strong> has been
+          cancelled. We&apos;ll be back in 2027 — stay tuned!
+        </p>
+      </div>
       <section className="hero-section">
         <div className="hero-background-grid" />
 
@@ -14,7 +20,7 @@ const Hero = () => {
             {/* Left column - Content */}
             <div className="hero-left-column fade-in-up">
               <div className="hero-badge-container">
-                <span className="hero-badge">21-22 May 2026</span>
+                <span className="hero-badge" style={{ textDecoration: 'line-through' }}>21-22 May 2026</span>
                 <span className="hero-badge"><a href="https://wt.ls/cloudnative">Join the mailing list</a></span>
               </div>
 
