@@ -43,7 +43,7 @@
     "gatsby-plugin-mdx": "^5.5.0",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "jsdom": "^22.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.get": "^4.4.2",
     "lottie-react": "^2.4.0",
     "lucide-react": "^0.454.0",
